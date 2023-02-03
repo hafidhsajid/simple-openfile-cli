@@ -11,10 +11,6 @@ parser.add_argument("-t", "--type", help="Type file output")
 args = parser.parse_args()
 
 fileinput = sys.argv[1]
-if args.outputfile!=None: 
-    fileoutput = args.outputfile
-else: 
-    fileoutput = "output.txt"
 
 if os.path.exists(fileinput):
     if args.type=="json": 
