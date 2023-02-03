@@ -1,6 +1,4 @@
 # Simple open log file using python
-## example command
-
 
 ## Documentation
 usage: `openfile.py [-h] [-o OUTPUTFILE] [-t TYPE] input`
@@ -19,6 +17,7 @@ usage: `openfile.py [-h] [-o OUTPUTFILE] [-t TYPE] input`
     -o | Output file location
     -t | Type file location
 
+## Example Command
 
 
 ```
