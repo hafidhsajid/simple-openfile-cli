@@ -14,7 +14,7 @@ usage: `openfile.py [-h] [-o OUTPUTFILE] [-t TYPE] input`
     | Command  | Function  |
     :-: | :-----------:
     -h, --help | show this help message and exit
-    -o | Output file location
+    -o | Output file location default (output.txt)
     -t | Type file location
 
 ## Example Command
